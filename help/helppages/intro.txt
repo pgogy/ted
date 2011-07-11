@@ -1,0 +1,5 @@
+<center><img src="../images/ted_logo.gif" /><br>
+<h1>Welcome to TED</h1></center>
+<br><br>
+The TED project is a browser-based tool for the development of learning materials for mobile phones. Material created in TED will not work on all mobile phones, but it will work on almost all PCs and Macs. It uses flash lite technology, which is very common on mobile phones, and is available to be installed (if not installed already) on almost all desktops. Flash lite technology is also available on other mobile devices such as the Playstation Portable ("PSP"). Using these tools you can create learning objects that can be used across mobile and desktop / laptop platforms so as to make resources that are available to be used by as many devices as possible.<br><br>
+The TED project was developed by Pat Lockley, with the assistance of Claire Chambers.

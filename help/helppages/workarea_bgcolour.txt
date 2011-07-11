@@ -1,0 +1,11 @@
+<h1>Changing the background colour</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/workarea_background.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/workarea_background_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+Right click on any free part of the work area, then left click on document properties and use the colour picker, or you can see how to <a href="helppages/background_colour.swf" target="new">change the background colour</a> in a video.<br><br>
+Remember you can also change the background of individual slides by using a rectangle.
+</div>

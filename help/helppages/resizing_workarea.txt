@@ -1,0 +1,11 @@
+<h1>Resizing items in the work area</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/moving_workarea.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/x_and_y.png" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+To resize an item, highlight item, then move the mouse cursor to the edge of the item you wish to resize. The top and bottom edges can make an item shorter or taller, and the left and right hand sides can do thinner or fatter. There is also a video available to show you how to <a href="helppages/drag_items.swf" target="new">resize items in a work area</a>.<br><br>
+An alternative way to move an item is to format the item and change it's width and height values.<br><br>
+</div>

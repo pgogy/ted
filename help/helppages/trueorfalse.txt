@@ -1,0 +1,10 @@
+<h1>True or false question</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/insert_truefalse.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+To add a true or false question, left click on true or false question, then insert true or false. Then left click once in the work area to start drawing the quiz area, and left click again to stop drawing it.
+<br><br>
+You can see this as a video - <a target="new" href="helppages/insert_trueorfalse.swf">Adding an true or false question</a>
+</div>

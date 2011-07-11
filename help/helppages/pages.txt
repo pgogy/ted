@@ -1,0 +1,12 @@
+<h1>Pages</h1>
+We've hopefully made the TED interface as easy to use as possible. The interface is designed to be powerpoint-esque, and like powerpoint it has a series of pages running a long the left hand side. These pages represent a linear flow through the learning object - however unlike powerpoint you will need to use buttons or the interactions to move between pages.
+<br><br>
+<div style="float:left; position:relative;">
+<img src = "helppages/pages.gif" align="left" />
+</div>
+<div style="float:left; position:relative;">
+<h2>Page management</h2>
+On the left you can see the pages current visible in your learning object. If you have multiple pages you can use the scroll bar to bring different pages into view.<br><br>
+The page with the light blue border, is the highlighted current page. This is the page which will appear in the main view when you click on it.<br><br>
+The content of each page will update as you add new materials in the main work area.
+</div>

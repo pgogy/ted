@@ -1,0 +1,15 @@
+<h1>Templates</h1>
+<br><br>
+To help people get started and to provide some inspiration, TED comes with a series of templates. These templates are 
+<ul>
+	<li>A basic quiz</li>
+	<li>A case study example</li>
+	<li>A text sending survey</li>
+	<li>A drag and drop exercise</li>
+	<li>A fill in the blanks example</li>
+	<li>A text entry option</li>
+	<li>A series of flashcards</li>
+</ul>
+You can access the templates on the file menu by left clicking on file, then templates
+<br><br>
+We hope you find then useful.

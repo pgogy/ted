@@ -1,0 +1,15 @@
+<h1>Rectangles</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/text.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/text_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+To add some text to a page, left click on the text area option over on the right hand side. Then left click on insert text area.
+<br><br>
+The cursor should now become a cross hair, and move over to the work area, then left click and start to draw the area you'd like to be the text area.
+<br><br>
+To edit the text, double left click on the text area, then type in your text. Click outside the text area when you are done.
+You can see this as a video - <a target="new" href="helppages/text_area.swf">Adding a text area</a>
+</div>

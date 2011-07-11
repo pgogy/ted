@@ -1,0 +1,34 @@
+div#workingarea{
+
+	float:left;
+	position:relative;
+	width:750px; 
+	height:550px; 
+	background-color:#E1E2E5;
+	margin-left:0px;
+	z-index:0;
+	
+}
+
+div#workarea{
+
+	position:absolute; 
+	left:0px;
+	top:0px;
+	width:100%;
+	height:100%;
+	z-index:2;	
+
+}
+
+div#workspace{
+
+	position:relative;
+	left:370px;
+	top:170px;
+	width:176px;
+	height:208px;
+	background-color:#fff;
+	z-index:1;
+
+}

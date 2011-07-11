@@ -1,0 +1,15 @@
+<h1>Page clearing</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">Option 1
+<img src = "helppages/page_clear.gif" align="left" /></p>
+<p style="width:100%">Option 2
+<img src = "helppages/page_clear_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+You can clear (empty all of a page contents) a page in one of two ways
+<ol>
+	<li>Right click on a page and then left click on clear page</li>
+	<li>On the pages menu at the top, select the clear page option</li>
+</ol>
+Or you can see how to <a href="helppages/pages_add.swf" target="new">clear pages</a> in a video.
+</div>

@@ -1,0 +1,14 @@
+<h1>Changing the size of a work area</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/workarea_size.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/workarea_size_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+This is how to make your learning object bigger or smaller. Please note that the default size of a new learning object TED presents is a recommended size for mobile phones. This size is the approximate size of older phones, and will scale up on more modern, larger screened phones.<br>
+<br>
+Right click anywhere on the work area background. Then left click on document properties. Type in your new sizes and then click apply.
+<br><br>
+Or you can see how to <a href="helppages/workarea_size.swf" target="new">resize a work area</a> in a video.
+</div>

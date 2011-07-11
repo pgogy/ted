@@ -1,0 +1,15 @@
+<h1>Moving items in the work area</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/workarea_delete.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/workarea_delete_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+To delete an item from the workarea in TED there are two ways you can do it.
+<ol>
+	<li>Right click on the item in the work area and then left click on delete.</li>
+	<li>Left click on the menu option Edit, then left click on delete.</li>
+</ol>
+Or you can see how to <a href="helppages/workarea_delete.swf" target="new">delete items in a work area</a> in a video.
+</div>

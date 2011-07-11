@@ -1,0 +1,15 @@
+.workblock{
+	overflow:hidden;  
+	margin:0px; 
+	padding:0px; 
+	width:100%; 
+	height:100%
+}
+
+.scoreblock{
+	height:15px; 
+	width:15px; 
+	background-image:url('http://localhost/ted/images/tick.gif'); 
+	float:right; 
+	position:relative;
+}

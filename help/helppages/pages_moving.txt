@@ -1,0 +1,10 @@
+<h1>Page moving</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/page_drag.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+Pages in TED can be dragged around using the mouse (only single pages can be dragged and dropped). To drag a page, click on it and then move the mouse up and down. The page you have dragged will appear under the mouse and also move below to appear into the place the page will be moved to. When you are happy with the pages location, let go of the mouse and the page will drop into that location. If you are not happy with the move, you can undo the action.
+<br><br>
+You can see how to <a href="helppages/page_move.swf" target="new">move pages</a> in a video.
+</div>

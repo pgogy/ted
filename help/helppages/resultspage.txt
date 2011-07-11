@@ -1,0 +1,11 @@
+<h1>Results page</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/insert_results.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+Once you have created a series of questions (multiple choice, or score buttons), you can insert a results page and this will record the tally of the questions asked and their answers.<br><br>
+So select a page after your questions, and then click on results page, then left click insert results page, then left click in the work area to start drawing, and left click to finish.
+<br><br>
+You can see this as a video - <a target="new" href="helppages/insert_results.swf">Adding a results page</a>
+</div>

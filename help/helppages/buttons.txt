@@ -1,0 +1,20 @@
+<h1>Buttons</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/insert_button.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/text_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+To add a button, left click on the buttons, then left click on the option you would like.
+<ul>
+	<li>Next page button - This button will move you forward 1 page</li>
+	<li>Goto page button - This button will move you to the page you choose</li>
+	<li>Button - generic button with many customisable features</li>
+	<li>Score button - a button to help you build scoring quizzes</li>
+</ul>
+<br><br>
+The cursor should now become a cross hair, and move over to the work area, then left click and start to draw the area you'd like to be the button.
+<br><br>
+You can see this as a video - <a target="new" href="helppages/insert_button.swf">Adding a button</a>
+</div>

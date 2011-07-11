@@ -1,0 +1,17 @@
+<h1>Page adding</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">Option 1
+<img src = "helppages/page_add.gif" align="left" /></p>
+<p style="width:100%">Option 2
+<img src = "helppages/page_add_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+You can add a page in one of four ways
+<ol>
+	<li>Right click on a page and then left click on add - this will add a page at the end....</li>
+	<li>.... or Right click on a page and then left click on add page here - this will add a page directly after the page you click on.</li>
+	<li>On the pages menu at the top, select the add page option (actions as above)</li>
+	<li>On the pages menu at the top, select the add page here option (actions as above)</li>
+</ol>
+Or you can see how to <a href="helppages/pages_add.swf" target="new">add pages</a> in a video.
+</div>

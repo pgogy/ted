@@ -1,0 +1,12 @@
+<h1>Picture scroll exercise</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/insert_picturescroll.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/insert_picturescroll2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+To add a picture scroll exercise, left click on picture scroll, then insert picture. Then click on the picture you would like to use from the pop up window. The picture scroll will then insert itself.
+<br><br>
+You can see this as a video - <a target="new" href="helppages/insert_picturescroll.swf">Adding a picture scroll exercise</a>
+</div>

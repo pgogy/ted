@@ -1,0 +1,11 @@
+<h1>Moving items in the work area</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/moving_workarea.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/x_and_y.png" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+To move an item in the work area it must be selected. To select an item you left click on it. Then if you place the mouse cursor over the item, you can drag it around by clicking and dragging. If you place the mouse cursor over the blue dashed line you will be given the option of resizing the item by clicking and dragging. There is also a video available to show you how to <a href="helppages/drag_items.swf" target="new">move items in a work area</a>.<br><br>
+An alternative way to move an item is to format the item and change it's x and y coordinates.<br><br>
+</div>

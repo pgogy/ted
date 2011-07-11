@@ -1,0 +1,10 @@
+<h1>Sending a text</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/insert_sendtext.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+Ted can set up a page to send a text to a fixed mobile phone number.
+<br><br>
+You can see this as a video - <a target="new" href="helppages/insert_sendtext.swf">Adding a send text page</a>
+</div>

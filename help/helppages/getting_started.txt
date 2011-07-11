@@ -1,0 +1,11 @@
+<h1>Getting started</h1>
+When thinking about developing a resource for mobile learning it is important to have a good idea of how your learning object will work. There are good examples online of how to story board and develop elearning online. Also think of how you're learning object will be used - unlike other learning objects your resource will likely to be used in a variety of places - and these are places you can't be expected to know in advance.<br><br>
+There is also a real lack of material on best to develop mobile learning objects. One of the reasons TED was developed was to help people easily make learning objects for mobile phones, and so this is relatively new as an approach and there is a lot of scope for developing interesting and innovative approaches and learning objects.<br><br>
+Possible use cases
+<ul>
+	<li>Post lecture notes / handouts</li>
+	<li>Field trip notes</li>
+	<li>Field trip questions</li>
+	<li>Exam revision</li>
+	<li>Map exercises</li>
+</ul>

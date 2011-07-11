@@ -1,0 +1,18 @@
+div#clickmenu{
+
+	position:absolute; 
+	width:100px; 
+	height:100px; 
+	display:none; 
+	z-index:200;
+	background-color:#ddd;
+	border:1px solid #777;
+
+}
+
+div#clickmenu p{
+
+	margin:5px;
+	padding:0px;
+
+}

@@ -1,0 +1,136 @@
+div#wizardmenu{
+
+	position:absolute; 
+	display:none; 
+	width:400px; 
+	height:300px; 
+	top:300px; 
+	left:300px; 
+	z-index:102; 
+	border:1px solid #444d58;
+	background-color:#D0D6DE;
+
+}
+
+div#titlebar{
+	float:left;
+	position:relative;
+	width:90%;
+	height:20px;
+	padding:4px;
+	background-color:#444D58;
+	color:#fff;
+}
+
+div#titlebarclose{
+
+	float:right; 
+	position:relative; 
+	width:4%; 
+	height:20px;
+	z-index:110; 
+	background-color:#444D58;
+	color:#fff;
+	padding:4px;
+
+}
+
+div#wizardcontentleft{
+
+	float:left; 
+	position:relative; 
+	width:50%;
+	background-color:#D0D6DE;
+
+}
+
+div#wizardcontentleft div{
+
+	float:left; 
+	position:relative; 
+	background-color:#D0D6DE;
+
+}
+
+div#wizardcontentright div{
+
+	float:left; 
+	position:relative; 
+	height:auto;
+
+}
+
+div#wizardcontentright{
+	float:right; 
+	position:relative; 
+	width:50%; 
+}
+
+.wizardarea{
+	width:220px;
+}
+	
+.wizardquarter{
+	float:left; 
+	position:relative; 
+	width:20%; 
+}
+
+.wizardhundred{
+	float:left; 
+	position:relative; 
+	width:100%; 
+}
+
+
+.wizardquarter input, wizardhundred input{
+	display:inline; 
+	float:left; 
+	position:relative;
+}
+
+div#picturechooselist{
+	height:350px; 
+	margin-left:40px; 
+	width:150px;
+	overflow:scroll;
+}
+
+div#picture_choice{
+	height:300px;
+}
+
+div#hotspotlist{
+	height:350px; 
+	margin-left:40px; 
+	width:150px;
+	overflow:scroll;
+}
+
+div#wizardbutton{
+	
+	width:100%;
+	font-weight:bold;
+	text-align:center;
+	margin:5px;
+	padding:2px;
+	border:1px #888 solid;
+	background-color:#999;
+
+}
+
+div#file_open_spare{
+	height:160px; 
+	width:450px; 
+	padding:5px; 
+	background-color:#fff; 
+	overflow:scroll;
+}
+
+div#file_open_spare p{
+	background-color:#fff;
+	padding:0px;
+	margin:0px;
+	font-weight:bold;
+	font-size:110%;
+}

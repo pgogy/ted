@@ -1,0 +1,14 @@
+<h1>Page code</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/page_code.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/page_code_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+For more advanced people, you can add code that will run before a page starts and as a page ends.
+<br><br>
+To do this, right click on the page in question, then left click on page code. Type the actionscript you would like to use into the relevant boxes then click "apply", then click "ok".
+<br><br>
+You can see how to <a href="helppages/page_code.swf" target="new">add code to pages</a> in a video.
+</div>

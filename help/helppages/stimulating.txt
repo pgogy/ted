@@ -1,0 +1,12 @@
+<h1>Stimulating question</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/insert_stimulating.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+To add a stimulating question, left click on stimulating question, then insert stimulating question. Then left click once in the work area to start drawing the quiz area, and left click again to stop drawing it.
+<br><br>
+Once the shape is drawn, you can change the text of the question and the answers by double left clicking on them and then typing in the new text. To change an answer from being right or wrong, click on the tick or cross respectively.
+<br><br>
+You can see this as a video - <a target="new" href="helppages/insert_multiplechoice.swf">Adding a stimulating question</a>
+</div>

@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+rewriteEngine on 
+rewriteBase /ted/help
+
+rewriteRule ^([A-Za-z0-9_]+)$ index.php?help=$1

@@ -1,0 +1,80 @@
+div#medialist{
+
+	float:right; 
+	width:144px; 
+	position:relative; 
+	background-color:#E1E2E5; 
+	margin:10px;	
+	
+}
+
+.medialistholder{
+
+	float:left; 
+	position:relative; 
+	background-color:#EBEEF2; 
+	width:144px; 
+	height:530px;
+
+}
+
+.mediagroups{
+
+	float:left; 
+	position:relative; 
+	background-color:#EBEEF2; 
+	width:142px; 
+	height:530px; 
+	overflow:scroll; 
+	padding:5px;
+
+}
+
+.mediatopbottom{
+	
+	float:left; 
+	position:relative; 
+	background-color:#E1E2E5; 
+	width:100%; 
+	height:5px
+
+}
+
+div#interactionsclick, div#imagesclick, div#itemsclick, div#questionsclick, div#communicationsclick, div#interactionsadvclick{
+
+	height:20px; 
+	border:1px solid #000;
+	text-align:center;
+	font-weight:bold;
+
+}
+
+div#interactions, div#items, div#questions, div#communications, div#interactionsadv{
+
+	overflow:hidden;
+
+}
+
+
+div#interactions p, div#interactionsadv p, div#items p, div#questions p, div#communications p{
+	width:80px; 
+	height:40px; 
+	margin:5px 25px;
+	background-color:#ddd;
+	border:solid #ccc 1px;
+	font-weight:bold;
+	margin:5px 15px;
+	text-align:center;	
+}
+
+div#images img, div#picturechooselist img, div#hotspotlist img{
+	
+	width:80px; 
+	height:80px; 
+	margin:5px 15px;
+
+}
+
+.paneltopmedia{
+	width:134px; 
+}

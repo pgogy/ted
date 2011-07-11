@@ -1,0 +1,14 @@
+<h1>Flashcards</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">
+<img src = "helppages/insert_flashcard.gif" align="left" /></p>
+<p style="width:100%">
+<img src = "helppages/text_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+To add a flashcard, left click on flashcard, then left click on insert flashcard.
+<br><br>
+The cursor should now become a cross hair, and move over to the work area, then left click and start to draw the area you'd like to be the flashcard.
+<br><br>
+You can see this as a video - <a target="new" href="helppages/insert_flashcard.swf">Adding a flashcard</a>
+</div>

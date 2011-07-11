@@ -1,0 +1,134 @@
+div#pagepanel{
+
+	float:left;
+	width:100px; 
+	position:relative; 
+	background-color:#E1E2E5; 
+	padding:10px 10px; 
+	margin:0px;
+
+}
+
+.pagepanelholder{
+
+	float:left; 
+	position:relative; 
+	background-color:#EBEEF2; 
+	width:154px; 
+	height:200px
+
+}
+
+.panelend{
+
+	float:left; 
+	position:relative; 
+	background-color:#E1E2E5; 
+	width:100%; 
+	height:5px;
+
+}
+
+.panelcorner{
+
+
+	overflow:hidden; height:5px; 
+	width:5px; 
+	float:left; 
+	position:relative;
+
+}
+
+.paneltopleft{
+
+	background-image:url(../images/lcorner.gif); 
+	background-repeat:no-repeat; 
+}
+
+.paneltopright{
+
+	background-image:url(../images/rcorner.gif); 
+	background-repeat:no-repeat; 
+}
+
+.panelbottomleft{
+
+	background-image:url(../images/blcorner.gif); 
+	background-repeat:no-repeat; 
+}
+
+.panelbottomright{
+
+	background-image:url(../images/brcorner.gif); 
+	background-repeat:no-repeat; 
+}
+
+.paneltop{
+
+	background-color:#EBEEF2; 
+	height:5px; 
+	overflow:hidden; 
+	float:left; 
+	position:relative;
+
+}
+
+.paneltoppage{
+	width:144px; 
+}
+
+div#pages{
+
+	width:150px; 
+	height:525px;
+	margin:0 2px;
+	float:left; 
+	overflow:scroll; 
+	clear:left; 
+	position:relative;
+	background-color:#E1E2E5;  
+	z-index:1;
+
+}
+
+.pagehold{
+
+	float:left;
+	position:relative;
+	height:125px;
+	width:125px;
+
+}
+
+div#pages div p{
+
+	margin:0; 
+	padding:0;
+
+}
+
+.pagecover{
+
+	filter: alpha(opacity = 0); 
+	z-index:2; 
+	height:100%;
+	width:100%; 
+	background-color:#E1E2E5;
+	top:5px;
+	left:5px;
+	position:absolute;
+
+}
+
+.pageback{
+	
+	overflow:hidden; 
+	width:90px; 
+	height:90px; 
+	float:left; 
+	position:relative;
+	top:5px; 
+	left:18px; 
+	background-color:#fff;
+
+}

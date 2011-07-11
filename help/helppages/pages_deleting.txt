@@ -1,0 +1,15 @@
+<h1>Page deleting</h1>
+<div style="float:left; position:relative; width:150px;">
+<p style="width:100%">Option 1
+<img src = "helppages/page_delete.gif" align="left" /></p>
+<p style="width:100%">Option 2
+<img src = "helppages/page_delete_2.gif" align="left" /></p>
+</div>
+<div style="float:left; position:relative;">
+You can delete a page in one of two ways
+<ol>
+	<li>Right click on a page and then left click on delete - this way you can delete any page.</li>
+	<li>On the pages menu at the top, select the delete option - this will only delete the selected page.</li>
+</ol>
+Or you can see how to <a href="helppages/page_delete.swf" target="new">delete pages</a> in a video.
+</div>
