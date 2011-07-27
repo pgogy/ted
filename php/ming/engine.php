@@ -571,8 +571,12 @@
 		if(file_exists("../../image_process/" . $file)){
 
 			if($file!="."&&$file!=".."){
+			
+				//chmod("../../image_process/", 0777);
+		
+				//chmod("../../image_process/" . $file, 0777);
 
-				unlink("../../image_process/" . $file);
+				//unlink("../../image_process/" . $file);
 
 			}
 

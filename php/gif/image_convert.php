@@ -1,4 +1,4 @@
-<?
+<?PHP
 
 	class image_convert{
 

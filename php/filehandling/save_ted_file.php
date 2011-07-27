@@ -4,6 +4,4 @@
 	fwrite($fh, $_POST['file_data']);
 	fclose($fh);	
 
-	print_R($_POST);
-
 ?>

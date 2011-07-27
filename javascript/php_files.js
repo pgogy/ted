@@ -369,14 +369,14 @@ function export_file(){
 function download(){
 
 	compile_structure.download = true;
-	publish();	
+	publish("swf");	
 
 }
 
 function preview(){
 
 	compile_structure.publish = false;
-	publish();
+	publish("swf");
 
 }
 
@@ -1240,12 +1240,6 @@ function phpfilesopen_stateChanged(){
 
 	}
 
-
-}
-
-function cunt(){
-
-	open_ted_file("c:\\xampp\\htdocs\\ted\\file1.ted");
 
 }
 

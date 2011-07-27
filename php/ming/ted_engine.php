@@ -179,7 +179,7 @@
 					
 					}
 	
-					$tempfont = new SWFFont("../../fonts/_sans.fdb");
+					$tempfont = new SWFBrowserFont("../../fonts/_sans.fdb");
 					return $tempfont;
 
 				}

@@ -1,4 +1,5 @@
-<? 
+<?PHP 
+
 function force_download($file) 
 { 
 
